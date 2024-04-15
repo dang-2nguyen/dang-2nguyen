@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>My name is Dang and i am a student grade 11 in <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada</p>
+<p>My name is Dang and i am a student grade 11 at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada</p>
 <h2> Course Websites</h2>
 <p>
   <a href="https://sites.google.com/ocsb.ca/teh-icd2or">ICD2O</a>
